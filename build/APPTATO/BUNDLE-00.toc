@@ -1,0 +1,3 @@
+([('AppTato',
+   '/Users/rafaelcicatino/Desktop/Raspador de Email/dist/AppTato',
+   'EXECUTABLE')],)
